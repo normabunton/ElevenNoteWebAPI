@@ -1,6 +1,10 @@
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojAssemblyReference.cache
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CoreCompileInputs.cache
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll.config
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Services.pdb
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\EntityFramework.dll
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
@@ -12,6 +16,10 @@ C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\Microsoft.Owin.Security.OAuth.dll
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\Newtonsoft.Json.dll
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\Owin.dll
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\EntityFramework.xml
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
@@ -22,8 +30,6 @@ C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\Microsoft.Owin.Security.Cookies.xml
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\Microsoft.Owin.Security.OAuth.xml
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\Newtonsoft.Json.xml
-C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojAssemblyReference.cache
-C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CoreCompileInputs.cache
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
