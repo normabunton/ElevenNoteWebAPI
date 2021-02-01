@@ -123,3 +123,10 @@ C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote_WebAPI\obj\Debug\ElevenNote_WebAPI.csproj.CopyComplete
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote_WebAPI\obj\Debug\ElevenNote_WebAPI.dll
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote_WebAPI\obj\Debug\ElevenNote_WebAPI.pdb
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote_WebAPI\bin\Swashbuckle.Core.dll
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote_WebAPI\bin\WebActivatorEx.dll
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote_WebAPI\bin\Microsoft.Owin.Cors.dll
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote_WebAPI\bin\System.Web.Cors.dll
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote_WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote_WebAPI\bin\Microsoft.Owin.Cors.xml
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote_WebAPI\bin\System.Web.Http.Cors.xml
