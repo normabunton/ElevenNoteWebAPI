@@ -30,3 +30,4 @@ C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialMigration.resources
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.editNote.resources
